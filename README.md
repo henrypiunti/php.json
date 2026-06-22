@@ -22,3 +22,4 @@ Type a snippet prefix and press `Tab` (or `Enter`, depending on your VS Code set
 | `prof` | New protected function |
 | `prif` | New private function |
 | `class` | New class |
+| `thr` | Throw an exception |
